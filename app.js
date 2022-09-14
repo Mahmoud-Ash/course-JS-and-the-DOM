@@ -1,1 +1,1 @@
-document.onclick= alert("hello!);
+
